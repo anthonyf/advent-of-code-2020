@@ -1,1 +1,4 @@
 *.fasl
+.DS_Store
+/clojure/.nrepl-port
+/clojure/target
